@@ -18,7 +18,6 @@ draft: false
 - Haydon Welsh (haydonwelsh@proton.me)
 - gmemstr (@gmemstr)
 - Sefa Eyeoglu (contact@scrumplex.net)
-- Jay W. (@deviantsemicolon)
 - Kayla (@firestack)
 - hanemile (@hanemile)
 - Ali Rizvi (@frontear)
